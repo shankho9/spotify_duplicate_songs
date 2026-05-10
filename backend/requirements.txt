@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+psycopg[binary]
+pydantic-settings
+python-dotenv
+httpx
+rapidfuzz
+pandas
+tenacity
+pytest
+pytest-asyncio
