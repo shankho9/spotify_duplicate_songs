@@ -1,0 +1,30 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="24" fill="#ffffff"/>
+  <rect x="32" y="32" width="448" height="448" rx="16" fill="#f4f4f5" stroke="#a1a1aa" stroke-width="4"/>
+  <rect x="72" y="72" width="108" height="108" fill="#18181b"/>
+  <rect x="332" y="72" width="108" height="108" fill="#18181b"/>
+  <rect x="72" y="332" width="108" height="108" fill="#18181b"/>
+  <rect x="96" y="96" width="60" height="60" fill="#ffffff"/>
+  <rect x="356" y="96" width="60" height="60" fill="#ffffff"/>
+  <rect x="96" y="356" width="60" height="60" fill="#ffffff"/>
+  <rect x="220" y="92" width="24" height="24" fill="#18181b"/>
+  <rect x="260" y="92" width="24" height="24" fill="#18181b"/>
+  <rect x="220" y="132" width="24" height="24" fill="#18181b"/>
+  <rect x="260" y="132" width="24" height="24" fill="#18181b"/>
+  <rect x="220" y="172" width="24" height="24" fill="#18181b"/>
+  <rect x="260" y="172" width="24" height="24" fill="#18181b"/>
+  <rect x="180" y="220" width="24" height="24" fill="#18181b"/>
+  <rect x="220" y="220" width="24" height="24" fill="#18181b"/>
+  <rect x="260" y="220" width="24" height="24" fill="#18181b"/>
+  <rect x="300" y="220" width="24" height="24" fill="#18181b"/>
+  <rect x="180" y="260" width="24" height="24" fill="#18181b"/>
+  <rect x="260" y="260" width="24" height="24" fill="#18181b"/>
+  <rect x="300" y="260" width="24" height="24" fill="#18181b"/>
+  <rect x="340" y="260" width="24" height="24" fill="#18181b"/>
+  <rect x="220" y="300" width="24" height="24" fill="#18181b"/>
+  <rect x="260" y="300" width="24" height="24" fill="#18181b"/>
+  <rect x="300" y="300" width="24" height="24" fill="#18181b"/>
+  <text x="256" y="472" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#3f3f46">
+    UPI QR Placeholder
+  </text>
+</svg>
